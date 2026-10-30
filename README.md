@@ -12,7 +12,7 @@ A modern, responsive portfolio website built to showcase my technical skills, pr
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript, React / Next.js *(adjust to what you use)*
+- **Frontend:** HTML5, CSS3, JavaScript, React / Next.js 
 - **Styling:** Tailwind CSS / CSS Modules
 - **Deployment:** GitHub Pages / Vercel / Netlify
 
